@@ -1,4 +1,4 @@
-## CryptingUp-API-Cryptocurrency-Data-Analysis
+## CryptingUp API Cryptocurrency Data Analysis
 
 ### Project description
  We get some insights into the work of the development efforts by
