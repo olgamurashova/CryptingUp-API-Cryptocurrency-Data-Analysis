@@ -1,10 +1,9 @@
 ## CryptingUp API Cryptocurrency Data Analysis
 
 ### Project description
- We get some insights into the work of the development efforts by
 
-identifying the TOP 10 contributors and
-visualizing the commits over the years.
+In this project, I queried and analized CryptingUp API for cryptocurrency data. The source data is available [here](https://www.cryptingup.com/api/markets) and gets update every 24 hours.
+I got some insights into cryptocurrency trends by identifying top trading currencies as well as price changes within past 24 hours.
 
 ### Tools & Technologies 
 
